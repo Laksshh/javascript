@@ -38,7 +38,7 @@ console.log(typeof b); // object
 let c = NaN;
 console.log(typeof c); // Nan
 
-let d = 
+let d 
 
 
 
